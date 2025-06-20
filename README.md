@@ -6,7 +6,8 @@ A modern medical inventory and supplies tracking dashboard built with **React** 
 
 ## 📸 Screenshots
 
-Main Page- ![image](https://github.com/user-attachments/assets/a9a17f39-c495-4e18-a27a-3e98f1972b32)
+Main Page- [![Screenshot (614)](https://github.com/user-attachments/assets/ecd0ddad-25a9-4447-8b35-7266de3a765e)
+]
 
 
 ---
